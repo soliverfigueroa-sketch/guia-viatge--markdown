@@ -17,4 +17,4 @@ Es un poble petit perfecte per passar l'estiu. La localitat està profundament v
   + Es diu que hi ha un fantasma i cada any escull a un al·lot pef fer´lo escullir entre 3 opcion per despres matarlo. Cada any es fa una representació.
 
 ### ENLLAÇ
-![text enllaç](https://www.turismocastillalamancha.es/es/destinos/encanto-rural/albacete/munera)
+[text enllaç](https://www.turismocastillalamancha.es/es/destinos/encanto-rural/albacete/munera)
