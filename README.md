@@ -11,9 +11,10 @@ Es un poble petit perfecte per passar l'estiu. La localitat està profundament v
 - Pisto con pajaritos
 - Rolletes
 ## FESTES
-- Fiestas de la Juventud
-- Feria
-- La encantá
+- _Fiestas de la Juventud_
+  + Es una setmana en que la gent del poble vota a les nines que fan els 18 anys y las que surten elegides son las que representen al poble en totes les festes que hi ha.
+- _La encantá_
+  + Es diu que hi ha un fantasma i cada any escull a un al·lot pef fer´lo escullir entre 3 opcion per despres matarlo. Cada any es fa una representació.
 
 ### ENLLAÇ
 ![text enllaç](https://www.turismocastillalamancha.es/es/destinos/encanto-rural/albacete/munera)
