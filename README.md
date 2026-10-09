@@ -12,9 +12,9 @@ Es un poble petit perfecte per passar l'estiu. La localitat està profundament v
 - Rolletes
 ## FESTES
 - _Fiestas de la Juventud_
-  + Es una setmana en que la gent del poble vota a les nines que fan els 18 anys y las que surten elegides son las que representen al poble en totes les festes que hi ha.
+  + És una setmana en què la gent del poble vota a les nines que fan els divuit anys i les que surten elegides són las que representen al poble en totes les festes que hi ha.
 - _La encantá_
-  + Es diu que hi ha un fantasma i cada any escull a un al·lot pef fer´lo escullir entre 3 opcion per despres matarlo. Cada any es fa una representació.
+  + Es diu que hi ha un fantasma i cada any escull a un al·lot per fer-lo escull entre 3 opció per després matar-lo. Cada any es fa una representació.
 
 ### ENLLAÇ
 [text enllaç](https://www.turismocastillalamancha.es/es/destinos/encanto-rural/albacete/munera)
